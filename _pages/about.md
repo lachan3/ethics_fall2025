@@ -12,16 +12,16 @@ This page is meant for you to showcase your case study, podcasts, and blog posts
 
 About Me
 ---
-My name is [First Last]. I’m a [Computer Science] student in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my [B.S] in [majors]. You can also talk about internships you've had [if applicable]
+My name is Henry Lachance. I’m a Computer Science (https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my B.S in CS.
 
 Research 
 ---
-What topics are you currently interested in researching, or have already done in your major studies.
-What topics are you interested in learning about regarding ethics.
+I am interested in studing AWS and video game development with computer science.
+I am interested in ethical concerns of data collection.
 
 Personal Life
 ---
-Update to give a little background on you and your interests.
+I love to play music with guitar, bass and piano. I love making video games, and my dog Gigi.
 
 
 For more info on editing this page: configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
