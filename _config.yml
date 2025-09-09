@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Henry Lachance" #update
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left hand sidebar"
+  pronouns         : "He/Him"
+  bio              : "I study Computer Science at St. Olaf"
   employer         : "St. Olaf College"
   uri              : # URL
-  email            : "[username]@stolaf.edu" #update
+  email            : "lachan3@stolaf.edu" #update
 
   # links
   academia         : # URL
