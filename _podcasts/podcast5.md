@@ -3,7 +3,7 @@ title: "Podcast 5: This Is Your Brain on Memes"
 collection: podcasts
 permalink: /podcasts/podcast5
 excerpt: "Evan and I talk about the aesthetics of memes"
-date: 2025-11-12
+date: 2025-12-4
 audio: ethics_fall2025/files/HenryEvanpodcast5.mp3
 ---
 
