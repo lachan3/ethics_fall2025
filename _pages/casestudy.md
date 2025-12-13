@@ -71,6 +71,10 @@ Activity idea: Create a mock game concept and redesign its monetization system t
 
 [Go to stakeholder 1](stakeholder1/)
 
+[Go to stakeholder 2](stakeholder2/)
+
+[Go to stakeholder 3](stakeholder3/)
+
 **Articles:**
 
 [Addicted Whales](https://www.proquest.com/psycinfo/docview/1789507671/AD932E6AAF9B4BCEPQ/2?accountid=351)
