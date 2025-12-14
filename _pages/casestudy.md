@@ -8,7 +8,7 @@ An ethical study on transactions in video games.
 
 ## Abstract 
 
-Video Games have been subjected to a lot of commercialization. Companies have implemented extra transactional items, ranging from cosmetics to loot boxes. These can have advantages to gameplay, or be purely aesthetic. Most players will either pass on purchasing or just buy a couple items. The most money generated from these games are from a small percentage of players, known as “Whales”. Ethical issues arise from targeting the players who may be vulnerable. The free-to-play genre has been shifting towards a more ‘free-to-download’ model, as companies have been heavily incentivizing purchases, and making it harder to play without spending money. Mobile games and gacha games are an example of this change, with many purchases shoved in the player’s face. Games are shifting from time and skill based to relying on transactions.
+ㅤㅤVideo Games have been subjected to a lot of commercialization. Companies have implemented extra transactional items, ranging from cosmetics to loot boxes. These can have advantages to gameplay, or be purely aesthetic. Most players will either pass on purchasing or just buy a couple items. The most money generated from these games are from a small percentage of players, known as “Whales”. Ethical issues arise from targeting the players who may be vulnerable. The free-to-play genre has been shifting towards a more ‘free-to-download’ model, as companies have been heavily incentivizing purchases, and making it harder to play without spending money. Mobile games and gacha games are an example of this change, with many purchases shoved in the player’s face. Games are shifting from time and skill based to relying on transactions.
 
 Evan Olds
 Aspiring violinist.
