@@ -38,11 +38,18 @@ Aspiring game developer.
 * Explore the role of regulation, transparency, and player protection in modern game economies.
 
 
+
 # 1. Introduction
 ㅤㅤWhen games began going free-to-play in the early 2000s, the first being Nexon's QuizQuiz in 1999. The first game to include microtransactions was in The Elder Scrolls IV: Oblivion and it was horse armor that you could buy for $2.50. This game was not free-to-play. Already there was backlash against this, but little did gamers know what was about to come. The first major shift in this market I would argue comes from the release of Team Fortress 2, specifically an update adding loot boxes that you could open and sell the items for real money. Just a year later it went free-to-play, likely hoping to get more player count and make more profit. Grindy mobile games like Clash of Clans implemented gems to speed up progress. What might surprise you is that most of the money generated comes from a small percentage of players in these games.
 
 # 2. Overview
-ㅤㅤIn this segment we will be discussing relevant monetary aspects for how game developers generate revenue, through means of unethical practices like targeting, gambling and pay-to-win.
+ㅤㅤIn this segment we will be discussing relevant monetary aspects for how game developers generate revenue, through means of unethical practices like targeting, gambling and pay-to-win. We identified three main stakeholders in this situation, and gave a brief description of their correlation to the case study.
+
+[Go to stakeholder 1: Free-to-play players ](stakeholder1/)
+
+[Go to stakeholder 2: Paying players](stakeholder2/)
+
+[Go to stakeholder 3: Game developers](stakeholder3/)
 
 ## 2.1 Whales
 ㅤㅤMost revenue generated through microtransactions in games come from a small percentage of players, known as whales. Whales are big. Whales can be wealthy people, streamers, or people who blow their paychecks. A lot of these microtransactions in games have hooks in them to encourage players to continue to not only play but to continue to make in-game purchases. The longer the players spend playing the game the more chance they have to spend money. This in turn hurts vulnerable players that have addictive tendencies, compulsion issues, and social pressure. “Whales share significant characteristics with addicted video gamers” (Dreier et al.).
@@ -86,24 +93,16 @@ Aspiring game developer.
 *Think about who is being targeted, and making sure they aren’t a vulnerable audience, such as children
 
 
-
 ## 3.1 Discussion Questions and Activity
 
-Should we outright ban the use of lootboxes for real life currency in video games? Why or why not?
+How legally liable should game developers and companies be with how they handle gambling elements, with not limiting minors, or addicts.
 
-At what point does player responsibility become overshadowed by exploitative design?
+How much responsibility is on the players to be financially responsible, and not on the developers for exploitative design?
 
-How should developers ethically balance profit with player health?
+What ethical obligations do game companies have when implementing monetization strategies?
+
+How can developers balance their need for profit with players’ desires for transparency and a fair game?
 
 After answering these questions, here is an activity to help think about microtransactions in relation to games you’ve played. [Go to activity page](activity/)
-
-
-**Subpages:**
-
-[Go to stakeholder 1](stakeholder1/)
-
-[Go to stakeholder 2](stakeholder2/)
-
-[Go to stakeholder 3](stakeholder3/)
 
 [Go to Works Cited](citations/)
