@@ -40,9 +40,13 @@ Aspiring game developer.
 
 
 # 1. Introduction
+
+---
 ㅤㅤWhen games began going free-to-play in the early 2000s, the first being Nexon's QuizQuiz in 1999. The first game to include microtransactions was in The Elder Scrolls IV: Oblivion and it was horse armor that you could buy for $2.50. This game was not free-to-play. Already there was backlash against this, but little did gamers know what was about to come. The first major shift in this market I would argue comes from the release of Team Fortress 2, specifically an update adding loot boxes that you could open and sell the items for real money. Just a year later it went free-to-play, likely hoping to get more player count and make more profit. Grindy mobile games like Clash of Clans implemented gems to speed up progress. What might surprise you is that most of the money generated comes from a small percentage of players in these games.
 
 # 2. Overview
+
+---
 ㅤㅤIn this segment we will be discussing relevant monetary aspects for how game developers generate revenue, through means of unethical practices like targeting, gambling and pay-to-win. We identified three main stakeholders in this situation, and gave a brief description of their correlation to the case study.
 
 [Go to stakeholder 1: Free-to-play players ](stakeholder1/)
@@ -82,6 +86,8 @@ Aspiring game developer.
 ㅤㅤGames often have many different customization options for cosmetics, allowing for a vast amount of combinations. This in turn increases things that players can spend money on, like paint, stickers, keychains, or hats. This is a business technique called bundling, where purchases are often associated with similar products, so you are incentivized to buy multiple things.
 
 # 3. Conclusion
+
+---
 ㅤㅤFree-to-play games often include seemingly optional microtransactions. The ethical issues are not merely from microtransactions, but in how they are embedded into the gameplay. These microtransactions are pushed onto players through pay-to-win mechanics, curated scarcity through limited time offers, and gambling like elements. Most of the generated revenue comes from whales, who tend to be more susceptible to these purchases with the way they are presented. 
 
 ㅤㅤIt is important to consider regulations on microtransactions in video games. There are many predatory tactics for making money in the game industry. The illusion of free-to-play masks a system that increasingly relies on psychological pressure rather than informed choice. While regulation has begun to address some aspects of loot boxes and gacha mechanics, legality alone is insufficient. Game designers need to implement ethical designs for player well-being, transparency, and the protection of vulnerable players. Without safeguards, free-to-play risks become less about accessibility and more about extracting value from those least equipped to resist it.
