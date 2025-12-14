@@ -14,3 +14,6 @@ What type of microtransactions are being used in the game you're playing? Are th
 
 ## Comparison 
 Pay attention to microtransactions like currency that can be obtained through normally playing the game. How does spending money compare with saving time, how much time would you have saved if you bought the microtransactions?
+
+## Redesign
+How could you change the game's microtransaction system so that it is more ethical while maintaining sufficient profit.
