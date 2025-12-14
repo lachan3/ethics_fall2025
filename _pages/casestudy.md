@@ -87,21 +87,20 @@ Aspiring game developer.
 ㅤㅤIt is important to consider regulations on microtransactions in video games. There are many predatory tactics for making money in the game industry. The illusion of free-to-play masks a system that increasingly relies on psychological pressure rather than informed choice. While regulation has begun to address some aspects of loot boxes and gacha mechanics, legality alone is insufficient. Game designers need to implement ethical designs for player well-being, transparency, and the protection of vulnerable players. Without safeguards, free-to-play risks become less about accessibility and more about extracting value from those least equipped to resist it.
 
 ㅤㅤHere are some possible implementations games could use for more ethical monetization.
-*Including age verification for gambling elements, which is required in real life gambling anyways. 
-*Limit spending, such as daily limits, which steam already has implemented. 
-*Reward time spent playing more. Clash of clans has actually done this in recent updates, rewarding more time spent playing, and reducing the amount of time spent waiting. 
-*Think about who is being targeted, and making sure they aren’t a vulnerable audience, such as children
-
+* Including age verification for gambling elements, which is required in real life gambling anyways. 
+* Limit spending, such as daily limits, which steam already has implemented. 
+* Reward time spent playing more. Clash of clans has actually done this in recent updates, rewarding more time spent playing, and reducing the amount of time spent waiting. 
+* Think about who is being targeted, and making sure they aren’t a vulnerable audience, such as children
 
 ## 3.1 Discussion Questions and Activity
 
-How legally liable should game developers and companies be with how they handle gambling elements, with not limiting minors, or addicts.
+1. How legally liable should game developers and companies be with how they handle gambling elements, with not limiting minors, or addicts.
 
-How much responsibility is on the players to be financially responsible, and not on the developers for exploitative design?
+2. How much responsibility is on the players to be financially responsible, and not on the developers for exploitative design?
 
-What ethical obligations do game companies have when implementing monetization strategies?
+3. What ethical obligations do game companies have when implementing monetization strategies?
 
-How can developers balance their need for profit with players’ desires for transparency and a fair game?
+4. How can developers balance their need for profit with players’ desires for transparency and a fair game?
 
 After answering these questions, here is an activity to help think about microtransactions in relation to games you’ve played. [Go to activity page](activity/)
 
