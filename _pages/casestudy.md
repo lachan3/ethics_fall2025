@@ -65,6 +65,8 @@ Aspiring game developer.
 ## 2.4 Cosmetics
 ㅤㅤGames like Fortnite introduce battle passes which have limited time items that players can buy. These items can make people feel like they’re missing out and increase sales because of their perceived limited quantity. Ethical tension arises from these cosmetics seem harmless, yet their sales strategies intentionally exploit psychological triggers. Think of all the offers you have seen from stores where they say it’s limited time and ending soon, it makes you stressed about making a decision now rather than thinking about it. You end up leaning towards purchasing so you don’t miss the deal and regret it later.
 
+ㅤㅤSome game’s cosmetics have become marketable on 3rd party sites allowing for real money to be obtained through selling and gambling these items. “Recently, online marketplace data was used to establish that these in-game items have real world value, and could therefore be regulated under existing gambling regulations in some jurisdictions” (Drummond et al., 2020). This changes the perception of cosmetics from being purely aesthetic to a crypto like commodity.
+
 ## 2.5 Incentivization Techniques
 ㅤㅤOne of the most prevalent techniques in games is to constantly bombard players with advertisements on their screen. Many games constantly ask you about purchases or will have purchase options shown on a screen that you see often. In many ads nowadays, after you watch a video about a game, it auto directs you to the download screen. This is an example of this technique, making it easy for players to purchase by reducing how much work they have to do in order to make the purchase. 
 
